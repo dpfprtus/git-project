@@ -18,3 +18,5 @@ git log --decorate=full --oneline --graph # 커밋로그 확인
 ##브랜치 생성하기
 '''bash
 git checkout -b readme #readme 라는 이름의 브랜치 생성
+
+##라이센스 추가함
