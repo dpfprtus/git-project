@@ -18,3 +18,6 @@ git log --decorate=full --oneline --graph # 커밋로그 확인
 ##브랜치 생성하기
 '''bash
 git checkout -b readme #readme 라는 이름의 브랜치 생성
+
+##저장시간 추가
+11월 16일 15시 38분
